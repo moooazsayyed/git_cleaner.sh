@@ -28,12 +28,11 @@ Installation
 Clone this repository to your local machine:
 
 bash
-Copy code
+
 git clone https://github.com/your-username/git-repository-cleaner.git
 Navigate to the project directory:
 
 bash
-Copy code
 cd git-repository-cleaner
 Configure the script by replacing the following variables in the script:
 
