@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Authentication using Personal Access Token (PAT)
-GIT_TOKEN="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"
+GIT_TOKEN="ENTER YOUR PAT ACCCESS TOKEN HERE"
 GIT_HOST="https://github.com"  # Replace with your Git hosting service URL
 USERNAME="mooazsayyed"       # Replace with your username
 
